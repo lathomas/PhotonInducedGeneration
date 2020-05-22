@@ -1,12 +1,25 @@
 # PhotonInducedGeneration
 
-cmsrel  CMSSW_8_0_21
+<code>cmsrel  CMSSW_8_0_21</code>
 
-cd CMSSW_8_0_21/src
+<code>cd CMSSW_8_0_21/src</code>
 
-git clone https://github.com/lathomas/PhotonInducedGeneration.git -b cmssw_8_0_21 
+<code>git clone https://github.com/lathomas/PhotonInducedGeneration.git -b cmssw_8_0_21 </code>
 
-cmsenv
+<code>cmsenv</code>
+
+To run: 
+
+<code>cmsRun MakeRAW.py/MakeAOD.py  </code>
+
+<b>Crab submission:</b> 
+Use the following script:
+
+<code>sh SubmitToCrabPrivateProd_HLT_Forthomme.sh  DATASETNAMEINDAS </code>
+
+or 
+
+<code>sh SubmitToCrabPrivateProd_AOD_Forthomme.sh  DATASETNAMEINDAS </code>
 
 
 
