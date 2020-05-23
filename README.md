@@ -1,8 +1,10 @@
 # PhotonInducedGeneration
 
-cmsrel  CMSSW_7_1_21_patch2
-cd CMSSW_7_1_21_patch2/src/
-git clone https://github.com/lathomas/PhotonInducedGeneration
+cmsrel  CMSSW_9_4_9
+
+cd CMSSW_9_4_9/src/
+
+git clone https://github.com/lathomas/PhotonInducedGeneration -b cmssw_9_4_9
 
 
 
