@@ -14,7 +14,7 @@ To run:
 
 <code>cmsRun MakeX.py</code>
 
-where X=LHEGENSIM_forcrab,RAWnoHLT,AOD,MINIAOD. The output of the previous step should be provided as input to the next step (obviously...). For LHEGENSIM you need to update the inputFiles to a valid LHE file. 
+where X=LHEGENSIMinonestep_forcrab,RAWnoHLT,AOD,MINIAOD. The output of the previous step should be provided as input to the next step (obviously...). For LHEGENSIM you need to update the inputFiles to a valid LHE file. 
 
 <b>Important note: the HLT step MUST be run on 9_4_14_UL_patch1. It will crash on 10_6.</b>
 ​
