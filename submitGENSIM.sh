@@ -1,0 +1,48 @@
+
+# sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-2300toInf_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-1400to2300_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-800to1400_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-400to800_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-200to400_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-120to200_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_ElEl_M-50to120_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-50to120_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-120to200_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-200to400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-400to800_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-800to1400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-1400to2300_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelInel_SY_M-2300toInf_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-50to120_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-120to200_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-200to400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-400to800_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-800to1400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-1400to2300_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToMuMu_InelEl_SY_M-2300toInf_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-50to120_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-120to200_Pt-15toInf_CepGen-lpair_13TeV
+#sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-200to400_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-400to800_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-800to1400_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-1400to2300_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_ElEl_M-2300toInf_Pt-15toInf_CepGen-lpair_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-50to120_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-120to200_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-200to400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-400to800_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-800to1400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-1400to2300_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelInel_SY_M-2300toInf_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-2300toInf_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-1400to2300_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-800to1400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-400to800_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-200to400_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-120to200_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+ sh SubmitToCrab_GEN.sh GamGamToEE_InelEl_SY_M-50to120_Pt-15toInf_CepGen-lpair-pythia6_13TeV
+
+
+
+
+
